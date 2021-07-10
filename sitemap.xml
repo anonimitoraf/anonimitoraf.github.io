@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://anonimitoraf.github.io/readme/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/categories/</loc>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/post/</loc>
+    <lastmod>2021-07-10T13:59:13+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/</loc>
+    <lastmod>2021-07-10T13:59:13+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/tags/</loc>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/post/test/</loc>
+    <lastmod>2021-07-10T03:49:24+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/post/test-2/</loc>
+    <lastmod>2021-07-10T03:47:02+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/post/test-3/</loc>
+    <lastmod>2021-07-10T13:59:13+10:00</lastmod>
+  </url>
+</urlset>
