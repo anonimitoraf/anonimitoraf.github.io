@@ -7,12 +7,4 @@ if [ -n "$(git status -s)" ]; then
   exit 1
 fi
 
-COMMIT_MESSAGE=$(git show -s --format=%s)
-
-hugo && sleep 5
-
-(pushd public || exit 1)
-git add .
-git commit -m "${COMMIT_MESSAGE}"
-git push
-(popd || exit 1)
+git subtree push --prefix public origin gh-pages
