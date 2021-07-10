@@ -1,0 +1,7 @@
+baseURL = "https://anonimitoraf.github.io/"
+languageCode = "en-us"
+title = "Ramblings, Brain Dumps and Everything in between"
+theme = "github-style"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]

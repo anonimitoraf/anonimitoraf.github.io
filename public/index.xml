@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramblings, Brain Dumps and Everything in between</title>
+    <link>https://anonimitoraf.github.io/</link>
+    <description>Recent content on Ramblings, Brain Dumps and Everything in between</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://anonimitoraf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anonimitoraf.github.io/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/readme/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://anonimitoraf.github.io/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/post/test/</guid>
+      <description>Test blog post trololol</description>
+    </item>
+    
+    <item>
+      <title>Test 2</title>
+      <link>https://anonimitoraf.github.io/post/test-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/post/test-2/</guid>
+      <description>HELLO AGAIN!! </description>
+    </item>
+    
+    <item>
+      <title>Test 3</title>
+      <link>https://anonimitoraf.github.io/post/test-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/post/test-3/</guid>
+      <description>Another test, but this time with a table
+   Col1 Col2 Col3 Col4     X Y Z XYZ    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+#+TITLE: Test
+#+HUGO_BASE_DIR: ..
+#+HUGO_CUSTOM_FRONT_MATTER: :pin true :summary "Test blog post trololol"
+
+* Announcements
+** Categories
+*** Greetings
+- Hello, world
+*** News
+- This is pretty cool!!!
