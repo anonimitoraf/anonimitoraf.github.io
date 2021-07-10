@@ -3,5 +3,12 @@ languageCode = "en-us"
 title = "Ramblings, Brain Dumps and Everything in between"
 theme = "github-style"
 
+[params]
+  email = "nicdaoraf@gmail.com"
+  github = "anonimitoraf"
+  description = "The best time to plant a tree was 20 years ago. The second best time is now."
+  avatar = "https://avatars.githubusercontent.com/u/15933322"
+  lastmod = true
+
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
