@@ -1,9 +1,0 @@
-#+TITLE: Test 3
-#+HUGO_BASE_DIR: ..
-#+HUGO_CUSTOM_FRONT_MATTER: :pin true
-
-Another test, but this time with a table
-
-| Col1 | Col2 | Col3 | Col4 |
-|------+------+------+------|
-| X    | Y    | Z    | XYZ  |

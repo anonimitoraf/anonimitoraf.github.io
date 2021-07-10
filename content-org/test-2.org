@@ -1,5 +1,0 @@
-#+TITLE: Test 2
-#+HUGO_BASE_DIR: ..
-#+HUGO_CUSTOM_FRONT_MATTER: :pin true
-
-* HELLO AGAIN!!
