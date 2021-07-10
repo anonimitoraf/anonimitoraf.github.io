@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anonimitoraf.github.io/readme/</loc>
+    <loc>https://anonimitoraf.github.io/public/readme/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://anonimitoraf.github.io/categories/</loc>
+    <loc>https://anonimitoraf.github.io/public/categories/</loc>
   </url><url>
-    <loc>https://anonimitoraf.github.io/post/</loc>
+    <loc>https://anonimitoraf.github.io/public/post/</loc>
     <lastmod>2021-07-10T13:59:13+10:00</lastmod>
   </url><url>
-    <loc>https://anonimitoraf.github.io/</loc>
+    <loc>https://anonimitoraf.github.io/public/</loc>
     <lastmod>2021-07-10T13:59:13+10:00</lastmod>
   </url><url>
-    <loc>https://anonimitoraf.github.io/tags/</loc>
+    <loc>https://anonimitoraf.github.io/public/tags/</loc>
   </url><url>
-    <loc>https://anonimitoraf.github.io/post/test/</loc>
+    <loc>https://anonimitoraf.github.io/public/post/test/</loc>
     <lastmod>2021-07-10T03:49:24+10:00</lastmod>
   </url><url>
-    <loc>https://anonimitoraf.github.io/post/test-2/</loc>
+    <loc>https://anonimitoraf.github.io/public/post/test-2/</loc>
     <lastmod>2021-07-10T03:47:02+10:00</lastmod>
   </url><url>
-    <loc>https://anonimitoraf.github.io/post/test-3/</loc>
+    <loc>https://anonimitoraf.github.io/public/post/test-3/</loc>
     <lastmod>2021-07-10T13:59:13+10:00</lastmod>
   </url>
 </urlset>
