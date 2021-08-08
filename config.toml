@@ -12,3 +12,6 @@ theme = "github-style"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"

@@ -1,0 +1,8 @@
+#+TITLE: On Learning Erlang
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-09" :pin false :summary "Notes, complaints and ramblings accumulated while learning Erlang"
+#+HUGO_TAGS: study erlang "software engineering"
+
+* Initial observations
+- Seemingly non-composable syntax

@@ -1,0 +1,7 @@
+#+TITLE: What Does It Mean to Understand?
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-25" :pin true :summary ""
+#+HUGO_TAGS: meta
+
+* To which depth?

@@ -1,0 +1,16 @@
+#+TITLE: Bad Habits and Struggles
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-19" :pin false :summary "A registry of my struggles in life that I want to overcome"
+#+HUGO_TAGS: self-improvement
+
+* Lack of willpower
+** Effects
+*** Inconsistent sleep schedule
+* Lack of focus
+* Complacency
+** Causes
+*** Lack of Motivation
+*** Thinking I have lots of time
+** Effects
+*** Regrets

@@ -1,13 +1,15 @@
-#+TITLE: So, How Exactly Do You Write Good Blog Posts?
+#+TITLE: How Exactly Do You Write Good Blog Posts?
 #+HUGO_BASE_DIR: ..
-#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-09" :pin true :summary "A meta-blog post on how to write good blog posts"
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-09" :pin true :summary "A blog post on how to write good blog posts"
+#+HUGO_TAGS: meta
 
 * Key Points
-** Be concise - Optimize for reading
+** Be concise; optimize for reading
 You might write and/or edit a blog post once, twice or even 5x but ...
 
 ... in comparison your readers might read it tens, hundreds or even thousands of times (suppose it got popular).
-** Know who your target readers are - Empathise with them
+** Know who your target readers area; empathise with them
 For example:
 
 Instead of writing "medical jargon-filled" posts with the intention of targeting medical-laymen readers...

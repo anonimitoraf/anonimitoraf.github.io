@@ -1,23 +1,24 @@
 +++
-title = "So, How Exactly Do You Write Good Blog Posts?"
+title = "How Exactly Do You Write Good Blog Posts?"
 author = ["Rafael Nicdao"]
+tags = ["meta"]
 draft = false
 date = 2021-07-09
 pin = true
-summary = "A meta-blog post on how to write good blog posts"
+summary = "A blog post on how to write good blog posts"
 +++
 
 ## Key Points {#key-points}
 
 
-### Be concise - Optimize for reading {#be-concise-optimize-for-reading}
+### Be concise; optimize for reading {#be-concise-optimize-for-reading}
 
 You might write and/or edit a blog post once, twice or even 5x but ...
 
 ... in comparison your readers might read it tens, hundreds or even thousands of times (suppose it got popular).
 
 
-### Know who your target readers are - Empathise with them {#know-who-your-target-readers-are-empathise-with-them}
+### Know who your target readers area; empathise with them {#know-who-your-target-readers-area-empathise-with-them}
 
 For example:
 

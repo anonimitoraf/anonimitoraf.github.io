@@ -1,0 +1,8 @@
+#+TITLE: On Learning Clojure
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-09" :pin false :summary "Notes, complaints and ramblings accumulated while learning Clojure"
+#+HUGO_TAGS: study clojure "software engineering"
+
+* Preamble
+ On Aug 09, 2021, I started a new role in Audience Republic (backend) with Clojure as the language.

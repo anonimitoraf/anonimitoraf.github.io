@@ -1,0 +1,13 @@
+#+TITLE: Software Engineering
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-19" :pin true :summary "Thoughts, observations and realizations accumulated throughout my career"
+#+HUGO_TAGS: "software engineering"
+
+* Efficiency as a Software Engineer
+** Decide which decisions are worth making
+Know which decisions are important and which ones are not. Don't get bogged down by the unimportant ones.
+** Recognizing and Avoiding Accidental Complexity
+*** Writing Comprehensive Documentation
+- Complex things/designs/etc tend to be difficult to explain concisely. Note that of course, there exceptions.
+* Error Handling
