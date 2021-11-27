@@ -5,6 +5,7 @@ tags = ["meta"]
 draft = false
 date = 2021-07-25
 pin = true
+summary = "How do you know that you truly know?"
 +++
 
 ## To which depth? {#to-which-depth}
