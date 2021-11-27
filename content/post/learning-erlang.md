@@ -11,3 +11,4 @@ summary = "Notes, complaints and ramblings accumulated while learning Erlang"
 ## Initial observations {#initial-observations}
 
 -   Seemingly non-composable syntax
+-   A lot of different ways to do the same thing (reminds me of Haskell). TODO: List examples
