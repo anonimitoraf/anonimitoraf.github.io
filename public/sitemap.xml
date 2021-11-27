@@ -2,20 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://anonimitoraf.github.io/public/tags/misc/</loc>
+    <lastmod>2021-11-27T15:08:10+11:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/post/my-essentials/</loc>
+    <lastmod>2021-11-27T13:53:23+11:00</lastmod>
+  </url><url>
     <loc>https://anonimitoraf.github.io/public/post/</loc>
-    <lastmod>2021-07-10T18:49:42+10:00</lastmod>
+    <lastmod>2021-11-27T15:08:10+11:00</lastmod>
   </url><url>
     <loc>https://anonimitoraf.github.io/public/</loc>
-    <lastmod>2021-07-10T18:49:42+10:00</lastmod>
+    <lastmod>2021-11-27T15:08:10+11:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/tags/</loc>
+    <lastmod>2021-11-27T15:08:10+11:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/post/quotes/</loc>
+    <lastmod>2021-11-27T15:08:10+11:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/tags/self-improvement/</loc>
+    <lastmod>2021-11-27T15:08:10+11:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/tags/meta/</loc>
+    <lastmod>2021-11-27T13:35:10+11:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/post/what-does-it-mean-to-understand/</loc>
+    <lastmod>2021-11-27T13:35:10+11:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/post/bad-habits-and-struggles/</loc>
+    <lastmod>2021-08-08T11:16:22+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/post/software-engineering/</loc>
+    <lastmod>2021-08-08T11:13:34+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/tags/software-engineering/</loc>
+    <lastmod>2021-08-08T11:25:46+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/tags/clojure/</loc>
+    <lastmod>2021-08-08T11:23:14+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/tags/erlang/</loc>
+    <lastmod>2021-08-08T11:25:46+10:00</lastmod>
   </url><url>
     <loc>https://anonimitoraf.github.io/public/post/how-do-you-write-good-blog-posts/</loc>
-    <lastmod>2021-07-10T18:49:42+10:00</lastmod>
+    <lastmod>2021-08-08T11:23:08+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/post/learning-clojure/</loc>
+    <lastmod>2021-08-08T11:23:14+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/post/learning-erlang/</loc>
+    <lastmod>2021-08-08T11:25:46+10:00</lastmod>
+  </url><url>
+    <loc>https://anonimitoraf.github.io/public/tags/study/</loc>
+    <lastmod>2021-08-08T11:25:46+10:00</lastmod>
   </url><url>
     <loc>https://anonimitoraf.github.io/public/readme/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://anonimitoraf.github.io/public/categories/</loc>
-  </url><url>
-    <loc>https://anonimitoraf.github.io/public/tags/</loc>
   </url>
 </urlset>

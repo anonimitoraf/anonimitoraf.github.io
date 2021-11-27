@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta on Ramblings, Brain Dumps and Everything in between</title>
+    <link>https://anonimitoraf.github.io/public/tags/meta/</link>
+    <description>Recent content in meta on Ramblings, Brain Dumps and Everything in between</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://anonimitoraf.github.io/public/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does It Mean to Understand?</title>
+      <link>https://anonimitoraf.github.io/public/post/what-does-it-mean-to-understand/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/public/post/what-does-it-mean-to-understand/</guid>
+      <description>How do you know that you truly know?</description>
+    </item>
+    
+    <item>
+      <title>How Exactly Do You Write Good Blog Posts?</title>
+      <link>https://anonimitoraf.github.io/public/post/how-do-you-write-good-blog-posts/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/public/post/how-do-you-write-good-blog-posts/</guid>
+      <description>A blog post on how to write good blog posts</description>
+    </item>
+    
+  </channel>
+</rss>
