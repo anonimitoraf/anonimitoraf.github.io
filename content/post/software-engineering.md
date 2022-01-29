@@ -24,4 +24,18 @@ Know which decisions are important and which ones are not. Don't get bogged down
 -   Complex things/designs/etc tend to be difficult to explain concisely. Note that of course, there exceptions.
 
 
-## Error Handling {#error-handling}
+### Defining done realistically {#defining-done-realistically}
+
+
+#### Pareto Principle -&gt; Recognizing the 80% and deferring the 20% {#pareto-principle-recognizing-the-80-and-deferring-the-20}
+
+
+### Narrowing down the problem {#narrowing-down-the-problem}
+
+
+## Architecture Learnings {#architecture-learnings}
+
+
+### Error Handling {#error-handling}
+
+-   For customer-facing apps, you don't want to show cryptic, technical errors. You know best how to translate technical errors -&gt; user errors, so it might make sense to translate each possible into a dev error vs a user error.

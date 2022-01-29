@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts on Ramblings, Brain Dumps and Everything in between</title>
+    <link>https://anonimitoraf.github.io/public/tags/thoughts/</link>
+    <description>Recent content in thoughts on Ramblings, Brain Dumps and Everything in between</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://anonimitoraf.github.io/public/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pushing The Limits</title>
+      <link>https://anonimitoraf.github.io/public/post/pushing-the-limits/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/public/post/pushing-the-limits/</guid>
+      <description>Some thoughts on pushing limits</description>
+    </item>
+    
+    <item>
+      <title>Analogies</title>
+      <link>https://anonimitoraf.github.io/public/post/analogies/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/public/post/analogies/</guid>
+      <description> Software Engineering  Boiling pot with semi-open lid whose lid ultimately closes = semi-unstable system that ultimately becomes unstable  </description>
+    </item>
+    
+    <item>
+      <title>Productivity Killers</title>
+      <link>https://anonimitoraf.github.io/public/post/productivity-killers/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/public/post/productivity-killers/</guid>
+      <description>based on personal experience</description>
+    </item>
+    
+  </channel>
+</rss>

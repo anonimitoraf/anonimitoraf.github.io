@@ -10,4 +10,9 @@ Know which decisions are important and which ones are not. Don't get bogged down
 ** Recognizing and Avoiding Accidental Complexity
 *** Writing Comprehensive Documentation
 - Complex things/designs/etc tend to be difficult to explain concisely. Note that of course, there exceptions.
-* Error Handling
+** Defining done realistically
+*** Pareto Principle -> Recognizing the 80% and deferring the 20%
+** Narrowing down the problem
+* Architecture Learnings
+** Error Handling
+- For customer-facing apps, you don't want to show cryptic, technical errors. You know best how to translate technical errors -> user errors, so it might make sense to translate each possible into a dev error vs a user error.

@@ -1,0 +1,8 @@
+#+TITLE: Analogies
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2021-11-29 :pin false :summary " "
+#+HUGO_TAGS: thoughts
+
+* Software Engineering
+- Boiling pot with semi-open lid whose lid ultimately closes = semi-unstable system that ultimately becomes unstable

@@ -1,0 +1,45 @@
+#+TITLE: Procrastinating Procrastination
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2022-01-29" :pin true :summary "Blog post inspired by the need to clean my robomop's cloths"
+#+HUGO_TAGS: misc "self-improvement"
+
+* Preamble
+
+Just like pretty much everyone, there are some things that I put off for future-me to do.
+
+I'm usually aware I'm doing this and so I'd get frustrated at myself.
+
+These things can be as small as cleaning my room or watering the plants (I've had numerous die due to neglect).
+
+So, I thought about it more, looked around for some answers and here's what I've found so far
+
+* It helps to lower the "activation energy" required to do "the thing"
+
+Make it easier for future-you to do the thing. This can be something as small as: making sure all the things are set up before hand (e.g. having all cleaning equipment "ready-to-go")
+
+A personal theory I've got is that:
+    - Starting something is (almost) always the hardest, most grueling part. Once you've actually started, it's smooth sailing. I believe this is because the start requires the most activation energy.
+
+    - There's the "unknowns" to deal with, the nagging thought that maybe "you're not good enough", etc. So perhaps, to minimize the activation energy required, JUST DO THE THING. Don't overthink it.
+
+* Don't pile up your tasks
+
+It's very demotivating to see a mountain of tasks to get through. You end up in a negative spiral of "ugh, so many things to do, I'll do them later" which becomes worse and worse over time.
+
+I have a robovac + mop. It's great! Although, not 100% hands-free (just like any equivalent out there).
+    - The vac's dirt container has to be cleared
+    - The mop cloth/s (I have 5 in total) has to be cleaned
+    - The mop's water container has to be filled up
+
+The first and last points are not the ones I put off; it's the second.
+It takes 2-3 mins of continuous manual scrubbing with a brush + detergent to clean a cloth. Yes, I've tried using my washing machine, doesn't work because the dirt's clings to the cloth.
+
+Here's how it plays out:
+    - I run my vac 2x within the day -> 2 dirty mop cloths. I get lazy and decide to put off cleaning the cloths the next day.
+    - Next day, same thing happens. Make that 3-4 cloths, depending on how many times I run the vac.
+    - Rinse, repeat till I get through 5 cloths. (Maybe it's actually a blessing that I don't have 20 cloths!)
+    - 1-2 weeks pass and I either stop running my robo vac + mop or just run it in vac mode
+    - I finally get fed up with it and decide to spend 15 mins to clean the clothes. Like I did today.
+
+If you have a robo vac + mop like I do, clean the cloths immediately. SERIOUSLY, just do it. If you don't have one, apply this to your thing of choice.

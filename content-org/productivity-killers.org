@@ -1,0 +1,7 @@
+#+TITLE: Productivity Killers
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2021-11-29 :pin false :summary "based on personal experience"
+#+HUGO_TAGS: productivity thoughts "self-improvement"
+
+* Lack of clear direction

@@ -1,0 +1,8 @@
+#+TITLE: The Difference That Mindset Makes
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2021-11-28 :pin false :summary "TODO"
+#+HUGO_TAGS: "TODO"
+ 
+* TODO Organize these
+- Interviews: nerves vs confidence

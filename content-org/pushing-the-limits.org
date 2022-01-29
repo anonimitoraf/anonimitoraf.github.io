@@ -1,0 +1,7 @@
+#+TITLE: Pushing The Limits
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2021-12-02 :pin false :summary "Some thoughts on pushing limits"
+#+HUGO_TAGS: "self-improvement" thoughts
+
+- Esta pushing limits with interaction with Brooklyn
