@@ -8,6 +8,9 @@ pin = true
 summary = "Goals"
 +++
 
+NOTE: This is a continually-evolving blog post and probably won't ever be "finished"
+
+
 ## Read this blog post every morning {#read-this-blog-post-every-morning}
 
 Helps set the focus for the day. Goes best with watching [Pale Blue Dot](https://www.youtube.com/watch?v=wupToqz1e2g) (to remind me to be humble).

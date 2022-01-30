@@ -4,6 +4,8 @@
 #+HUGO_CUSTOM_FRONT_MATTER: :date 2022-01-30 :pin true :summary "Goals"
 #+HUGO_TAGS: "self-improvement"
 
+NOTE: This is a continually-evolving blog post and probably won't ever be "finished"
+
 * Read this blog post every morning
 Helps set the focus for the day. Goes best with watching [[yt:https://www.youtube.com/watch?v=wupToqz1e2g][Pale Blue Dot]] (to remind me to be humble).
 
