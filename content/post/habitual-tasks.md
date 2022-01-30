@@ -1,11 +1,11 @@
 +++
-title = "Goals"
+title = "Habitual Tasks"
 author = ["Rafael Nicdao"]
 tags = ["self-improvement"]
 draft = false
 date = 2022-01-30
 pin = true
-summary = "Goals"
+summary = "Tasks that will form into habits that I want to have"
 +++
 
 NOTE: This is a continually-evolving blog post and probably won't ever be "finished"

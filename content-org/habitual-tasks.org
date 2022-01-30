@@ -1,7 +1,7 @@
-#+TITLE: Goals
+#+TITLE: Habitual Tasks
 #+HUGO_BASE_DIR: ..
 #+HUGO_SECTION: post
-#+HUGO_CUSTOM_FRONT_MATTER: :date 2022-01-30 :pin true :summary "Goals"
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2022-01-30 :pin true :summary "Tasks that will form into habits that I want to have"
 #+HUGO_TAGS: "self-improvement"
 
 NOTE: This is a continually-evolving blog post and probably won't ever be "finished"
