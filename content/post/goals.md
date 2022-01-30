@@ -22,7 +22,7 @@ I want to get much better and more importantly, more comfortable with writing. I
 
 I'm imposing on myself to write a semi-structured blog post, an unorganized brain dump, or really, anything, to make sure I continually sharpen my writing skills.
 
-On that days that I don't write anything, there has to be a damn good excuse for not doing so.
+On that days that I don't write anything, there has to be a damn good excuse for not doing so. Better yet, maybe I can write down (in a global blog post or somewhere else) my excuse for not writing on that day.
 
 
 ### Writing as a way of caching information {#writing-as-a-way-of-caching-information}
