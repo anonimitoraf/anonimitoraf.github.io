@@ -16,23 +16,5 @@
       <description>Thoughts, observations and realizations accumulated throughout my career</description>
     </item>
     
-    <item>
-      <title>On Learning Clojure</title>
-      <link>https://anonimitoraf.github.io/public/post/learning-clojure/</link>
-      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/learning-clojure/</guid>
-      <description>Notes, complaints and ramblings accumulated while learning Clojure</description>
-    </item>
-    
-    <item>
-      <title>On Learning Erlang</title>
-      <link>https://anonimitoraf.github.io/public/post/learning-erlang/</link>
-      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/learning-erlang/</guid>
-      <description>Notes, complaints and ramblings accumulated while learning Erlang</description>
-    </item>
-    
   </channel>
 </rss>

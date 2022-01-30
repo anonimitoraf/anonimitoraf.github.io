@@ -25,14 +25,5 @@
       <description>Things that I deem essential in everyday life</description>
     </item>
     
-    <item>
-      <title>Memorable Quotes</title>
-      <link>https://anonimitoraf.github.io/public/post/quotes/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/quotes/</guid>
-      <description>Compilation of quotes that inspired and/or resonated with me</description>
-    </item>
-    
   </channel>
 </rss>

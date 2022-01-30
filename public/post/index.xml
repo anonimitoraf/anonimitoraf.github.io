@@ -26,33 +26,6 @@
     </item>
     
     <item>
-      <title>Pushing The Limits</title>
-      <link>https://anonimitoraf.github.io/public/post/pushing-the-limits/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/pushing-the-limits/</guid>
-      <description>Some thoughts on pushing limits</description>
-    </item>
-    
-    <item>
-      <title>Analogies</title>
-      <link>https://anonimitoraf.github.io/public/post/analogies/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/analogies/</guid>
-      <description> Software Engineering  Boiling pot with semi-open lid whose lid ultimately closes = semi-unstable system that ultimately becomes unstable  </description>
-    </item>
-    
-    <item>
-      <title>Productivity Killers</title>
-      <link>https://anonimitoraf.github.io/public/post/productivity-killers/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/productivity-killers/</guid>
-      <description>based on personal experience</description>
-    </item>
-    
-    <item>
       <title>The Difference That Mindset Makes</title>
       <link>https://anonimitoraf.github.io/public/post/the-difference-that-mindset-makes/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
@@ -71,66 +44,12 @@
     </item>
     
     <item>
-      <title>Memorable Quotes</title>
-      <link>https://anonimitoraf.github.io/public/post/quotes/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/quotes/</guid>
-      <description>Compilation of quotes that inspired and/or resonated with me</description>
-    </item>
-    
-    <item>
-      <title>What Does It Mean to Understand?</title>
-      <link>https://anonimitoraf.github.io/public/post/what-does-it-mean-to-understand/</link>
-      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/what-does-it-mean-to-understand/</guid>
-      <description>How do you know that you truly know?</description>
-    </item>
-    
-    <item>
-      <title>Bad Habits and Struggles</title>
-      <link>https://anonimitoraf.github.io/public/post/bad-habits-and-struggles/</link>
-      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/bad-habits-and-struggles/</guid>
-      <description>A registry of my struggles in life that I want to overcome</description>
-    </item>
-    
-    <item>
       <title>Software Engineering</title>
       <link>https://anonimitoraf.github.io/public/post/software-engineering/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://anonimitoraf.github.io/public/post/software-engineering/</guid>
       <description>Thoughts, observations and realizations accumulated throughout my career</description>
-    </item>
-    
-    <item>
-      <title>How Exactly Do You Write Good Blog Posts?</title>
-      <link>https://anonimitoraf.github.io/public/post/how-do-you-write-good-blog-posts/</link>
-      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/how-do-you-write-good-blog-posts/</guid>
-      <description>A blog post on how to write good blog posts</description>
-    </item>
-    
-    <item>
-      <title>On Learning Clojure</title>
-      <link>https://anonimitoraf.github.io/public/post/learning-clojure/</link>
-      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/learning-clojure/</guid>
-      <description>Notes, complaints and ramblings accumulated while learning Clojure</description>
-    </item>
-    
-    <item>
-      <title>On Learning Erlang</title>
-      <link>https://anonimitoraf.github.io/public/post/learning-erlang/</link>
-      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/post/learning-erlang/</guid>
-      <description>Notes, complaints and ramblings accumulated while learning Erlang</description>
     </item>
     
   </channel>
