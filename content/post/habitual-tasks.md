@@ -16,7 +16,7 @@ NOTE: This is a continually-evolving blog post and probably won't ever be "finis
 Helps set the focus for the day. Goes best with watching [Pale Blue Dot](https://www.youtube.com/watch?v=wupToqz1e2g) (to remind me to be humble).
 
 
-## Write something substantial everyday {#write-something-substantial-everyday}
+## Write something substantial {#write-something-substantial}
 
 
 ### Why? {#why}
@@ -44,3 +44,8 @@ Some people out there have honed the skill to help others gain intuition by dist
 -   [Veritasium](https://www.youtube.com/c/veritasium)
 
 I'm usually short on time. I have a day job as a software engineer, consult for another company, contribute to open source and have multiple side projects on the side. So, want as I may to learn via reading papers/texts, time doesn't permit me to do so. Although, in the off-chances that I do get some time to read (maybe during commute, etc), I'll write about them too.
+
+
+## Get faster at typing and writing {#get-faster-at-typing-and-writing}
+
+If I'm to want to write a lot regularly, I can't let my typing/writing (ipad + pencil) speeds to be my bottlenecks. They need to be able to keep up with my thoughts such that, when my thoughts, they're already etched on paper (digital or otherwise) before the next thoughts pop up.
