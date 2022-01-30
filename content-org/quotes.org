@@ -1,7 +1,7 @@
 #+TITLE: Memorable Quotes
 #+HUGO_BASE_DIR: ..
 #+HUGO_SECTION: post
-#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-08-03" :pin true :summary "Compilation of quotes that inspired and/or resonated with me"
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-08-03" :pin false :summary "Compilation of quotes that inspired and/or resonated with me"
 #+HUGO_TAGS: misc "self-improvement"
 
 - The harder I practice, the easier the game will be.

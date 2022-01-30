@@ -1,7 +1,7 @@
 #+TITLE: What Does It Mean to Understand?
 #+HUGO_BASE_DIR: ..
 #+HUGO_SECTION: post
-#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-25" :pin true :summary "How do you know that you truly know?"
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-25" :pin false :summary "How do you know that you truly know?"
 #+HUGO_TAGS: meta
 
 * To which depth?

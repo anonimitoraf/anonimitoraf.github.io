@@ -4,7 +4,7 @@ author = ["Rafael Nicdao"]
 tags = ["meta"]
 draft = false
 date = 2021-07-25
-pin = true
+pin = false
 summary = "How do you know that you truly know?"
 +++
 

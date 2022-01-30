@@ -4,7 +4,7 @@ author = ["Rafael Nicdao"]
 tags = ["meta"]
 draft = false
 date = 2021-07-09
-pin = true
+pin = false
 summary = "A blog post on how to write good blog posts"
 +++
 

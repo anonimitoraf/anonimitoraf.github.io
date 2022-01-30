@@ -1,7 +1,7 @@
 #+TITLE: How Exactly Do You Write Good Blog Posts?
 #+HUGO_BASE_DIR: ..
 #+HUGO_SECTION: post
-#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-09" :pin true :summary "A blog post on how to write good blog posts"
+#+HUGO_CUSTOM_FRONT_MATTER: :date "2021-07-09" :pin false :summary "A blog post on how to write good blog posts"
 #+HUGO_TAGS: meta
 
 * Key Points
