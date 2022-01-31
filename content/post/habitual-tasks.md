@@ -48,4 +48,4 @@ I'm usually short on time. I have a day job as a software engineer, consult for 
 
 ## Get faster at typing and writing {#get-faster-at-typing-and-writing}
 
-If I'm to want to write a lot regularly, I can't let my typing/writing (ipad + pencil) speeds to be my bottlenecks. They need to be able to keep up with my thoughts such that, when my thoughts, they're already etched on paper (digital or otherwise) before the next thoughts pop up.
+If I'm to want to write a lot regularly, I can't let my typing/writing (ipad + pencil) speeds to be my bottlenecks. My thoughts need to be etched in (digital or otherwise) paper before the next ones arrive.
