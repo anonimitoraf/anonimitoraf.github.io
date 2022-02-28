@@ -1,0 +1,11 @@
+#+TITLE: The Essence Of Calculus
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2022-01-31 :pin false :summary "Jotting down my thoughts while watching https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr"
+#+HUGO_TAGS: "math" "3Blue1Brownhttps://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr"
+
+
+I've started watching [[yt:https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr][this]] amazing series by the amazing [[yt:https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw][3Blue1Brown]] channel
+
+* Ep 1
+Introductory ep. for the series. Gives a taste of re-framing Calculus as not just a bunch of formulae to memorize but as a creative endeavour of understanding every step.

@@ -1,0 +1,13 @@
+#+TITLE: Finance
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2022-02-07 :pin false :summary "A dump of financial stuff"
+#+HUGO_TAGS: finance
+
+* Resources
+** Books
+- The Most Important Thing - Howard Marks
+- Central Banking 101
+** Blogs/sites
+- https://www.lynalden.com
+* Questions

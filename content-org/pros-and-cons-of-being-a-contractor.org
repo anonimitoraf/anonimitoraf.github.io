@@ -1,0 +1,8 @@
+#+TITLE: Pros And Cons Of Being A Contractor
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2022-02-05 :pin false :summary "TODO"
+#+HUGO_TAGS: "TODO"
+
+* I'm forced to be focused, because every minute counts
+- Why? Guilt?

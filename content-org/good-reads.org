@@ -1,0 +1,8 @@
+#+TITLE: Good Reads
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2022-02-28 :pin false :summary "Good Reads"
+#+HUGO_TAGS: self-improvement misc
+
+* On Startups
+- [[http:paulgraham.com/ds.html][Do Things That Don't Scale]]
