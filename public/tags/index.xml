@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Ramblings, Brain Dumps and Everything in between</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://anonimitoraf.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://anonimitoraf.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TODO</title>
+      <link>https://anonimitoraf.github.io/public/tags/todo/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/public/tags/todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://anonimitoraf.github.io/public/tags/misc/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/public/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-improvement</title>
+      <link>https://anonimitoraf.github.io/public/tags/self-improvement/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anonimitoraf.github.io/public/tags/self-improvement/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>finance</title>
       <link>https://anonimitoraf.github.io/public/tags/finance/</link>
@@ -17,38 +44,11 @@
     </item>
     
     <item>
-      <title>TODO</title>
-      <link>https://anonimitoraf.github.io/public/tags/todo/</link>
-      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/tags/todo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>math</title>
       <link>https://anonimitoraf.github.io/public/tags/math/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://anonimitoraf.github.io/public/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>self-improvement</title>
-      <link>https://anonimitoraf.github.io/public/tags/self-improvement/</link>
-      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/tags/self-improvement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misc</title>
-      <link>https://anonimitoraf.github.io/public/tags/misc/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://anonimitoraf.github.io/public/tags/misc/</guid>
       <description></description>
     </item>
     

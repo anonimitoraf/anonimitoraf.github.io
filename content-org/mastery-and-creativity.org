@@ -1,0 +1,17 @@
+#+TITLE: Mastery and Creativity
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_CUSTOM_FRONT_MATTER: :date 2022-04-05 :pin true :summary "Exploring the relationship of mastery and creativity"
+#+HUGO_TAGS: self-improvement
+
+Reading [[http://www.paulgraham.com/ideas.html#:~:text=If%20new%20ideas%20arise%20like%20doodles%2C%20this%20would%20explain%20why%20you%20have%20to%20work%20at%20something%20for%20a%20while%20before%20you%20have%20any.%20It%27s%20not%20just%20that%20you%20can%27t%20judge%20ideas%20till%20you%27re%20an%20expert%20in%20a%20field.%20You%20won%27t%20even%20generate%20ideas%2C%20because%20you%20won%27t%20have%20any%20habits%20of%20mind%20to%20invoke.][this snippet from Paul Graham's essay]] reminded me of a guy I knew in High School. He was into Origami and he was obsessive.
+He had attained a respectable level of mastery to the point of inventing new Origami figures; they actually looked pretty damn good.
+Conversely, a person who barely knows Origami can invent a series of folds but end up generating crumpled paper instead of Origami.
+
+Why do you have to be a master (to some extent) to (intentionally[fn:1]) invent?
+
+* Knowing which constraints can be relaxed
+TODO
+
+* Footnotes
+[fn:1] I say intentionally because flukes borne out of a stroke of luck don't count, as far as this thought exercise goes.
